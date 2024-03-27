@@ -1,7 +1,6 @@
 ## Hi, I’m Hezequiel Janson
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hezequiel-oliveira-53b452247) 
 
 # 💻 Tech Stack:
@@ -10,9 +9,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kyoya00&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoya00&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kyoya00&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
