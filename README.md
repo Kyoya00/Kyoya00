@@ -9,10 +9,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=Kyoya00&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoya00&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Kyoya00&icon=1&color=10)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
